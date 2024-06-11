@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Desmends27/advice-generator-app)
-- Live Site URL: (https://desmends27.github.io/advice-generator-app/)
+- Solution URL: [Solution](https://github.com/Desmends27/advice-generator-app)
+- Live Site URL: [Live Site](https://desmends27.github.io/advice-generator-app/)
 
 ## My process
 
